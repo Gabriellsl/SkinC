@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SkinC Hello world!</string>
+    <string name="image_input">Pressione o botão para começar a análise</string>
+    <string name="image_catch">Capture</string>
+</resources>
